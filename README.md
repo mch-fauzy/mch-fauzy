@@ -69,7 +69,7 @@ Has good understanding of:
 | No/Priority | Backend | Database | Cloud Services | Visualization Platform |
 |:--:|:-------:|:--------:|:--------------:| :--------------:|
 | 1 | Python | SQL Server / Google Cloud BigQuery | Google Cloud Platform | Google Data Studio |
-| 2 | Arduino C | Influx DB | Google Cloud Platform | Node Red / Grafana |
+| 2 | Arduino C / Python | Influx DB | Google Cloud Platform | Node Red / Grafana |
 
 <!--
 ## Contact & Website
