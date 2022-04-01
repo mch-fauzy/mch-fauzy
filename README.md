@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 I previously working in __embedded systems industry__. 
-Has good understanding of:
+Have good understanding of:
 * Python
 * SQL
 * Arduino C
