@@ -133,7 +133,7 @@ Have good understanding of:
 
 
 
-[1]: https://www.instagram.com/much_fauzy
+[1]: https://www.instagram.com/mucha_fauzy
 [2]: https://facebook.com/bervianto.leo
 [3]: https://github.com/berviantoleo
 [4]: https://linkedin.com/in/bervianto-leo-pratama
