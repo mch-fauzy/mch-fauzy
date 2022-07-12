@@ -85,7 +85,7 @@ Have good understanding of:
 [2.1]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white (facebook icon)
 [3.1]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white (linkedin icon)
 
-[1]: https://www.instagram.com/much_fauzy
+[1]: https://www.instagram.com/mucha_fauzy
 [2]: https://facebook.com/muchamad.fauzy
 [3]: https://linkedin.com/in/muchamad-fauzy-2b3489a5
 
