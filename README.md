@@ -23,10 +23,12 @@ I previously working in __embedded systems industry__.
 Have good understanding of:
 * Python
 * SQL
-* Arduino C
-* Microcontroller & Mini PC/Server
-* IoT
+* Data Analytics
 * Machine Learning
+* Google Cloud Platform
+* Looker Studio and Tableau
+* HTML
+* ETL scripting
 
 ## Badges/Certifications
 
