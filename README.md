@@ -28,6 +28,11 @@ Have good understanding of:
 * Google Cloud Platform
 * Looker Studio and Tableau
 * HTML
+* CSS
+* Golang
+* Database
+* Javascript
+* NodeJS
 * ETL scripting
 
 ## Badges/Certifications
@@ -62,16 +67,15 @@ Have good understanding of:
 
 | No | Focus | Interest Topic |
 |:--:|:-----:|:--------------:|
-| 1 | IoT | MQTT / LoRa |
-| 2 | Embedded Systems | PID / Computer Vision / Rules Based |
-| 3 | Data Science | Machine Learning / EDA & Data Preprocessing |
+| 1 | Fullstack Developer | SDLC / API / Integration |
+| 2 | Data Science | Machine Learning / EDA & Data Preprocessing |
 
 ## Focus Technology Stack
 
 | No/Priority | Backend | Database | Cloud Services | Visualization Platform |
 |:--:|:-------:|:--------:|:--------------:| :--------------:|
-| 1 | Python | SQL Server / Google Cloud BigQuery | Google Cloud Platform | Google Data Studio |
-| 2 | Arduino C / Python | Influx DB | Google Cloud Platform | Node Red / Grafana |
+| 1 | Golang / Javascript | MySQL / PostgreSQL | Google Cloud Platform / AWS | - |
+| 2 | Python | SQL Server / Google Cloud BigQuery | Google Cloud Platform | Looker Studio / Tableau|
 
 <!--
 ## Contact & Website
