@@ -22,17 +22,17 @@ Here are some ideas to get you started:
 I previously working in __embedded systems industry__. 
 Have good understanding of:
 * Python
+* Golang
+* Javascript
+* NodeJs
+* ExpressJs
+* HTML
+* CSS
 * SQL
 * Data Analytics
 * Machine Learning
 * Google Cloud Platform
 * Looker Studio and Tableau
-* HTML
-* CSS
-* Golang
-* Database
-* Javascript
-* NodeJS
 * ETL scripting
 
 ## Badges/Certifications
