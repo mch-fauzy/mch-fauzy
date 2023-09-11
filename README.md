@@ -26,7 +26,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+<details>
+<summary>
+  View stats
+</summary>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mch-fauzy&hide_progress=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mch-fauzy&count_private=true&show_icons=true&include_all_commits=true)  
+
+</details>
