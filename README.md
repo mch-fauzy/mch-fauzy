@@ -9,11 +9,3 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mch-fauzy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mch-fauzy&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mch-fauzy)  
-
-![GitHub metrics](https://metrics.lecoq.io/mch-fauzy)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mch-fauzy)  
-
-![Profile views](https://gpvc.arturio.dev/mch-fauzy)  
