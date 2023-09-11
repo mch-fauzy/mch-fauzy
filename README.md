@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Muchamad Fauzy, people call me Fauzy. 
-Previously, I am a data analyst and now currently pursuing career in tech. 
+I am Muchamad Fauzy, people call me Fauzy. <br>
+Previously, I am a data analyst and now currently pursuing career in tech. <br>
 Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Muchamad%20Fauzy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)](https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)
