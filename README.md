@@ -1,11 +1,8 @@
 ### Hi there 👋, my name is Fauzy
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:mucha.fauzy@gmail.com)
 
-- 🔭 I’m currently working on this page. 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mch-fauzy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mch-fauzy&hide_progress=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mch-fauzy&show_icons=true&count_private=true)  
