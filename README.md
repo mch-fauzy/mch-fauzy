@@ -35,9 +35,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mch-fauzy&hide_progress=true)
 
 ### GitHub stats 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mch-fauzy&count_private=true&show_icons=true&include_all_commits=true" alt="My github stats" />
-</a> 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mch-fauzy&count_private=true&show_icons=true&include_all_commits=true)
 
 </details>
