@@ -1,7 +1,6 @@
-### Hi there 👋, my name is Fauzy
+### Hi there 👋
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mch-fauzy&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /></p>
+I am Muchamad Fauzy, people call me Fauzy. Previously, I am a data analyst and now currently pursuing career in tech. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Muchamad%20Fauzy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)](https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)
 [![Gmail Badge](https://img.shields.io/badge/-mucha.fauzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucha.fauzy@gmail.com)](mailto:mucha.fauzy@gmail.com)
@@ -38,3 +37,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mch-fauzy&count_private=true&show_icons=true&include_all_commits=true)
 
 </details>
+
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mch-fauzy&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /></p>
