@@ -1,18 +1,19 @@
 ### Hi there 👋, my name is Fauzy
 
 <!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mch-fauzy&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mch-fauzy&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Muchamad%20Fauzy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)](https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)
 [![Gmail Badge](https://img.shields.io/badge/-mucha.fauzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucha.fauzy@gmail.com)](mailto:mucha.fauzy@gmail.com)
 
 ### Technologies
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -21,6 +22,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mch-fauzy&hide_progress=true)
