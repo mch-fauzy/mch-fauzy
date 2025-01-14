@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am Muchamad Fauzy, people call me Fauzy. <br>
-- Previously, I am a data analyst and now currently **pursuing career in tech**. <br>
+- Previously, I am working in data-related job and now currently **pursuing career in tech**. <br>
 
 Always open to collaborating on projects and innovative or disruptive ideas. Feel free to connect with me here:
 
