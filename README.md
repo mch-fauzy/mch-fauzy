@@ -5,7 +5,7 @@
 
 Always open to collaborating on projects and innovative or disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Muchamad%20Fauzy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)](https://www.linkedin.com/in/muchamad-fauzy-2b3489a5/)
+[![Linkedin Badge](https://img.shields.io/badge/-Muchamad%20Fauzy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mch-fauzy-11b1471a5fa/)](https://www.linkedin.com/in/mch-fauzy-11b1471a5fa/)
 [![Gmail Badge](https://img.shields.io/badge/-mucha.fauzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucha.fauzy@gmail.com)](mailto:mucha.fauzy@gmail.com)
 
 ### Technologies
